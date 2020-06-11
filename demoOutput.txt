@@ -1,0 +1,6 @@
+Cat 1 (MyQ (Slist 1 [Cat 0 (MyQ (Slist 0 []) (Slist 0 []))]) (Slist 0 []))
+Cat 1 (MyQ (Slist 1 [Cat 0 (MyQ (Slist 0 []) (Slist 0 []))]) (Slist 0 []))
+Cat 1 (MyQ (Slist 1 [Cat 0 (MyQ (Slist 0 []) (Slist 0 []))]) (Slist 1 [Cat 1 (MyQ (Slist 1 [Cat 0 (MyQ (Slist 0 []) (Slist 0 []))]) (Slist 0 []))]))
+Cat 0 (MyQ (Slist 1 [Cat 1 (MyQ (Slist 1 [Cat 0 (MyQ (Slist 0 []) (Slist 0 []))]) (Slist 1 [Cat 1 (MyQ (Slist 1 [Cat 0 (MyQ (Slist 0 []) (Slist 0 []))]) (Slist 0 []))]))]) (Slist 1 [Cat 5 (MyQ (Slist 0 []) (Slist 0 []))]))
+Just 0
+Cat 1 (MyQ (Slist 1 [Cat 0 (MyQ (Slist 0 []) (Slist 0 []))]) (Slist 2 [Cat 5 (MyQ (Slist 0 []) (Slist 0 [])),Cat 1 (MyQ (Slist 1 [Cat 0 (MyQ (Slist 0 []) (Slist 0 []))]) (Slist 0 []))]))
